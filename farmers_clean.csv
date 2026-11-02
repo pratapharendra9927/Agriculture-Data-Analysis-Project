@@ -1,0 +1,51 @@
+Farmer_ID,Farmer_Name,Age,Gender,City,State,Crop,Land_Acres,Irrigation,Loan_Taken,Monthly_Income,Yearly_Income,Yearly_Expense,Profit,Profit_Margin,Farmer_Type,Age_Group
+F001,Mahesh Naik,62,Male,Ujjain,Madhya Pradesh,Soybean,2.1,Rain-fed,No,15100,181200,145000,36200,20,Small,60+
+F002,Sunil Chauhan,31,Male,Nagpur,Maharashtra,Maize,11.4,Tubewell,Yes,23500,282000,222900,59100,21,Large,31-45
+F003,Ramu Patil,61,Male,Indore,Madhya Pradesh,Wheat,24.8,Canal,No,34300,411600,192400,219200,53.3,Large,60+
+F004,Mahesh Reddy,22,Male,Nashik,Maharashtra,Onion,22.4,Rain-fed,Yes,32500,390000,203800,186200,47.7,Large,18-30
+F005,Mukesh Yadav,47,Male,Kota,Rajasthan,Cotton,19,Canal,No,22900,274800,149700,125100,45.5,Large,46-60
+F006,Vijay Thakur,60,Male,Bhopal,Madhya Pradesh,Wheat,22.4,Rain-fed,No,32000,384000,211100,172900,45,Large,46-60
+F007,Bhim Naik,60,Male,Nashik,Punjab,Soybean,22.4,Drip,Yes,32800,393600,267100,126500,32.1,Large,46-60
+F008,Arjun Naik,54,Female,Bhopal,Madhya Pradesh,Cotton,13.5,Drip,No,41200,494400,304800,189600,38.3,Large,46-60
+F009,Vijay Yadav,45,Male,Ujjain,Madhya Pradesh,Soybean,8.6,Tubewell,Yes,25700,308400,193900,114500,37.1,Small,31-45
+F010,Sita Chauhan,56,Male,Kota,Rajasthan,Wheat,19.5,Drip,No,24600,295200,177000,118200,40,Large,46-60
+F011,Vijay Verma,35,Male,Amritsar,Punjab,Sugarcane,16.9,Rain-fed,Yes,26400,316800,208900,107900,34.1,Large,31-45
+F012,Rajesh Pawar,60,Male,Ujjain,Madhya Pradesh,Sugarcane,10,Tubewell,No,15200,182400,89500,92900,50.9,Large,46-60
+F013,Lakhan Gupta,49,Male,Nashik,Maharashtra,Wheat,13.2,Canal,Yes,16400,196800,154200,42600,21.6,Large,46-60
+F014,Ramu Patil,44,Male,Varanasi,Uttar Pradesh,Rice,18.9,Tubewell,No,31200,374400,176300,198100,52.9,Large,31-45
+F015,Ajay Chauhan,46,Male,Jaipur,Uttar Pradesh,Rice,7.3,Rain-fed,No,29600,355200,291200,64000,18,Small,46-60
+F016,Shyam Kumar,49,Male,Jaipur,Rajasthan,Sugarcane,23.5,Drip,No,27700,332400,162800,169600,51,Large,46-60
+F017,Mahesh Meena,23,Male,Nagpur,Maharashtra,Maize,6.8,Canal,No,18200,218400,172000,46400,21.2,Small,18-30
+F018,Geeta Patel,47,Male,Pune,Maharashtra,Maize,3.9,Rain-fed,No,7500,90000,73000,17000,18.9,Small,46-60
+F019,Sita Patil,34,Male,Kota,Rajasthan,Onion,20.9,Drip,No,29600,355200,299000,56200,15.8,Large,31-45
+F020,Mohan Gupta,27,Male,Kota,Rajasthan,Maize,4.7,Drip,Yes,14400,172800,133200,39600,22.9,Small,18-30
+F021,Dinesh Naik,43,Male,Nashik,Maharashtra,Soybean,5.3,Tubewell,No,18000,216000,164500,51500,23.8,Small,31-45
+F022,Arjun Verma,47,Male,Indore,Madhya Pradesh,Wheat,15.4,Canal,Yes,22000,264000,186600,77400,29.3,Large,46-60
+F023,Mahesh Thakur,54,Male,Bhopal,Madhya Pradesh,Sugarcane,22,Tubewell,No,30600,367200,279700,87500,23.8,Large,46-60
+F024,Shyam Pawar,45,Male,Varanasi,Uttar Pradesh,Onion,5.7,Drip,Yes,10900,130800,65900,64900,49.6,Small,31-45
+F025,Pratap Naik,63,Female,Nagpur,Maharashtra,Onion,8.4,Drip,No,14200,170400,113200,57200,33.6,Small,60+
+F026,Bhim Singh,49,Female,Nagpur,Maharashtra,Rice,19.7,Rain-fed,No,25700,308400,335200,-26800,-8.7,Large,46-60
+F027,Kishan Jat,25,Male,Nagpur,Maharashtra,Rice,24.3,Canal,No,24900,298800,237000,61800,20.7,Large,18-30
+F028,Gopal Patel,59,Male,Amritsar,Punjab,Wheat,13,Canal,No,19200,230400,146300,84100,36.5,Large,46-60
+F029,Ajay Singh,50,Female,Indore,Madhya Pradesh,Wheat,4.5,Tubewell,No,31700,380400,229800,150600,39.6,Small,46-60
+F030,Bhim Reddy,53,Male,Pune,Madhya Pradesh,Cotton,1.3,Rain-fed,No,36200,434400,306600,127800,29.4,Small,46-60
+F031,Radha Naik,49,Male,Nashik,Maharashtra,Cotton,6.5,Canal,No,25700,308400,99500,208900,67.7,Small,46-60
+F032,Kishan Thakur,49,Male,Nagpur,Maharashtra,Soybean,4.2,Rain-fed,No,18300,219600,111100,108500,49.4,Small,46-60
+F033,Ramu Sharma,26,Male,Ludhiana,Punjab,Soybean,17.3,Rain-fed,No,30400,364800,233900,130900,35.9,Large,18-30
+F034,Radha Verma,47,Male,Nagpur,Maharashtra,Maize,3.9,Canal,Yes,30700,368400,227200,141200,38.3,Small,46-60
+F035,Mahesh Jat,60,Female,Nagpur,Maharashtra,Cotton,13.2,Canal,Yes,20000,240000,130300,109700,45.7,Large,46-60
+F036,Lakhan Singh,36,Male,Varanasi,Uttar Pradesh,Maize,17.7,Tubewell,Yes,27100,325200,194100,131100,40.3,Large,31-45
+F037,Shyam Yadav,51,Male,Bhopal,Madhya Pradesh,Onion,14.9,Rain-fed,No,31600,379200,226200,153000,40.3,Large,46-60
+F038,Pratap Jat,23,Male,Jaipur,Rajasthan,Soybean,5.8,Drip,No,24100,289200,168000,121200,41.9,Small,18-30
+F039,Sohan Kumar,39,Male,Jaipur,Rajasthan,Rice,20.3,Tubewell,No,27900,334800,201500,133300,39.8,Large,31-45
+F040,Ajay Reddy,43,Male,Nagpur,Maharashtra,Onion,18.2,Tubewell,No,28100,337200,244200,93000,27.6,Large,31-45
+F041,Kamla Chauhan,70,Female,Amritsar,Punjab,Onion,18.7,Drip,Yes,21000,252000,143300,108700,43.1,Large,60+
+F042,Dinesh Patil,32,Male,Nashik,Maharashtra,Soybean,4.1,Tubewell,No,19000,228000,189100,38900,17.1,Small,31-45
+F043,Anil Reddy,35,Male,Varanasi,Uttar Pradesh,Sugarcane,4,Tubewell,No,18800,225600,184200,41400,18.4,Small,31-45
+F044,Mahesh Sharma,42,Male,Nashik,Maharashtra,Cotton,23.3,Tubewell,Yes,33400,400800,257500,143300,35.8,Large,31-45
+F045,Lakhan Patil,70,Male,Jaipur,Rajasthan,Onion,10.5,Canal,Yes,21000,252000,146500,105500,41.9,Large,60+
+F046,Shyam Patil,63,Male,Jaipur,Rajasthan,Rice,8.2,Tubewell,Yes,25700,308400,204800,103600,33.6,Small,60+
+F047,Sita Verma,23,Male,Lucknow,Uttar Pradesh,Onion,12.7,Rain-fed,Yes,31700,380400,300300,80100,21.1,Large,18-30
+F048,Geeta Sharma,33,Male,Nagpur,Maharashtra,Onion,16.9,Drip,Yes,29100,349200,248300,100900,28.9,Large,31-45
+F049,Hari Reddy,62,Male,Nashik,Maharashtra,Rice,23.9,Rain-fed,No,34500,414000,319500,94500,22.8,Large,60+
+F050,Sunil Singh,24,Male,Indore,Madhya Pradesh,Rice,7.9,Drip,No,23100,277200,183800,93400,33.7,Small,18-30
